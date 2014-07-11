@@ -1,4 +1,4 @@
-sof-documentation
+SOF Documentation
 =================
 
-SOF documentation for sleepdata.org
+Version controlled repository for SOF documentation on [sleepdata.org](http://sleepdata.org/datasets/sof)
