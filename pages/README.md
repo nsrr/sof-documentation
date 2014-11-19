@@ -14,7 +14,7 @@ Note: NSRR datasets and SOF Online datasets may be linked on `PDRID`.
 
 A supplemental analysis of the EEG signals from the SOF sleep studies was conducted by the NSRR team. The purpose of this analysis was to assess spectral power density in NREM and REM sleep across 0.5-25 Hz frequency bins and also in various spectral bands (e.g. alpha, beta, theta). The analysis featured a mixture of automated MATLAB procedures and visual adjudication of sleep studies with problematic EEG signal patterns.
 
-Read more about the [SOF EEG spectral analysis purpose and procedures](eeg-spectral-analysis.md) and <a href=":files_path:/datasets" class="btn btn-success btn-lg">download the summary datasets</a>.
+Read more about the [SOF EEG spectral analysis purpose and procedures](eeg-spectral-analysis.md) and <a href=":files_path:/datasets">download the summary datasets</a>.
 
 ## Recent Changes
 
