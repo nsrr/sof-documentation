@@ -8,7 +8,7 @@ The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to o
 
 Note: NSRR datasets and SOF Online datasets may be linked on `PDRID`.
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download SOF PSG Dataset</a> ?? MB
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Datasets</a> ?? MB
 
 ## EEG Spectral Analysis
 
