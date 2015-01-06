@@ -8,13 +8,7 @@ The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to o
 
 Note: NSRR datasets and SOF Online datasets may be linked on `PDRID`.
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Datasets</a> ?? MB
-
-## EEG Spectral Analysis
-
-A supplemental analysis of the EEG signals from the SOF sleep studies was conducted by the NSRR team. The purpose of this analysis was to assess spectral power density in NREM and REM sleep across 0.5-25 Hz frequency bins and also in various spectral bands (e.g. alpha, beta, theta). The analysis featured a mixture of automated MATLAB procedures and visual adjudication of sleep studies with problematic EEG signal patterns.
-
-Read more about the [SOF EEG spectral analysis purpose and procedures](:pages_path:/eeg-spectral-analysis.md) and <a href=":files_path:/datasets">download the summary datasets</a>.
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Datasets</a> 1.3 MB
 
 ## Recent Changes
 
