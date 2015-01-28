@@ -10,6 +10,10 @@ Note: NSRR datasets and SOF Online datasets may be linked on `PDRID`.
 
 <a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Datasets</a> 1.3 MB
 
+## EEG Spectral Analysis
+
+As part of an ongoing effort to expand the offerings on the NSRR, we ran some [spectral analysis](:pages_path:/eeg-spectral-analysis.md).
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
