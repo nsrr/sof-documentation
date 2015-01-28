@@ -26,4 +26,4 @@ Limitations to the application of SpectralTrainFig to data include inherent chal
 
 - Datasets are keyed on `PDRID` and `signal`, e.g. Participant ID 123 and Signal C3.
 - The `spectral-summary` dataset includes power density summarized in different frequency bins, broken down by NREM and REM sleep
-- The `band-summary` dataset includes power density summarized by frequency bands (e.g. Delta, Theta)
+- The `band-summary` dataset includes power density summarized by frequency bands (e.g. Delta, Theta), broken down by NREM and REM sleep
