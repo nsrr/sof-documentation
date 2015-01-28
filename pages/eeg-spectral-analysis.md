@@ -19,3 +19,11 @@ Description of the SpectralTrainFig validation will be made available when the v
 ## Limitations
 
 Limitations to the application of SpectralTrainFig to data include inherent challenges associated with automated and large scale analysis, residual artifacts, the need for additional post processing tools, and the need for further validation studies. The complexity and time required to adjudicate, review and analyze results grows quickly as the number of analyzed studies. Additional post analysis tools are required and should be modeled after earlier efforts for analyzing large number of signals. We have presented a validation study with a population of older women that includes a large number of women with mild cognitive impairment and dementia. Additional validation studies with different populations, with different spectral parameters/methods and with different artifact detection parameters are required to better understand how the current analysis pipeline performs in relation to the spectral studies analyzed with manual artifact detection. We did not perform spectral studies with simulated data due to the lack of open source tools for simulating EEG signals during sleep. Studying the effect of spectral methods and parameters with simulated data could results in specific recommendations for setting spectral parameters for studying EEG dynamics that occur during sleep. There is a similar need to understand how different approaches to computing EEG spectral properties during sleep may affect physiological inference.
+
+## Dataset Structure
+
+[Two result datasets](:files_path:/datasets) have been posted for EEG spectral analysis.
+
+- Datasets are keyed on `PDRID` and `signal`, e.g. Participant ID 123 and Signal C3.
+- The `spectral-summary` dataset includes power density summarized in different frequency bins, broken down by NREM and REM sleep
+- The `band-summary` dataset includes power density summarized by frequency bands (e.g. Delta, Theta)
