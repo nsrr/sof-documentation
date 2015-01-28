@@ -1,6 +1,6 @@
 # EEG Spectral Analysis
 
-*Note:* For EEG spectral analysis inquiries, please ask questions in the [NSRR Forum](https://sleepdata.org/forum).
+*Note:* For EEG spectral analysis inquiries, please visit the [NSRR Forum](https://sleepdata.org/forum).
 
 Sleep is a complex dynamic process often quantified through spectral analysis of the electroencephalogram (EEG). Quantitative EEG (qEEG) analysis has been shown to be associated with wake period length, brain state, memory consolidation, cognitive development and decline, and psychological states. NREM and REM are two distinct sleep states that progress from lighter to deeper sleep. NREM and REM states cycle throughout the night with the distribution of NREM/REM states changing across the night. Sleep complexity as well as the complexity of the association of sleep with psychological/behavioral states suggesting the need for methods such as spectral analysis for quantifying EEG dynamics. Spectral analysis of the EEG signal was proposed early in the study of EEG analysis and continues to be a commonly used approached to analyze EEG signals. Spectral analysis transforms the EEG times-series into a compact representation that is defined as a sum of sinusoidal signals with different frequencies.
 
