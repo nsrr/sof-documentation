@@ -14,7 +14,7 @@ In order to the address the need for a computationally efficient spectral analys
 
 ## Validation Methods and Results
 
-The validation methods for SpectralTrainFig are in press. Additional details will be made available when the manuscript is published.
+Description of the SpectralTrainFig validation will be made available when the validation manuscript has been published.
 
 ## Limitations
 
