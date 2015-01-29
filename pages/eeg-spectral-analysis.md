@@ -38,3 +38,4 @@ Limitations to the application of SpectralTrainFig to data include inherent chal
 2. Buckelmuller J, Landolt H-P, Stassen HH, Acherman P. Trait-like individual differences in the human sleep electroencephlogram. Neuroscience 2006;351-356:351-6
 3. Dean II DA, Goldberger AL, Mueller R, et al. Scaling up scientific discovery in sleep medicine: The National Sleep Research Resource. In. Boston, MA: (in Preparation), 2015:1-14.
 4. Dean II DA, Tarokh L, Donlagic I, et al. Scaling up EEG spectral analysis while maintaining gold standard agreeement: The National Sleep Research Resource. (In Preparation), 2015:28.
+5. [https://github.com/DennisDean/SpectralTrainFig/blob/master/README.md](https://github.com/DennisDean/SpectralTrainFig/blob/master/README.md)
