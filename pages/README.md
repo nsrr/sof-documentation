@@ -14,6 +14,9 @@ Note: NSRR datasets and SOF Online datasets may be linked on `PDRID`.
 
 As part of the NSRR's effort to explore the SOF data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/sof/variables?folder=Spectral+Analysis).
 
+## Equipment
+- [Montage and Sampling Rate Information](https://sleepdata.org/datasets/sof/pages/equipment/montage-and-sampling-rate-information.md)
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
