@@ -10,12 +10,16 @@ Note: NSRR datasets and SOF Online datasets may be linked on `PDRID`.
 
 <a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Datasets</a> 1.3 MB
 
-## EEG Spectral Analysis
+## Protocols and Manuals
 
-As part of the NSRR's effort to explore the SOF data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/sof/variables?folder=Spectral+Analysis).
+- [SOF Polysomnography Manual of Procedures](:files_path:/documentation?f=SOF_Polysomnography_Manual_of_Procedures.pdf)
 
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
+
+## EEG Spectral Analysis
+
+As part of the NSRR's effort to explore the SOF data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/sof/variables?folder=Spectral+Analysis).
 
 ## Recent Changes
 

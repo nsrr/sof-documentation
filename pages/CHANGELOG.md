@@ -1,3 +1,8 @@
+### June 16, 2015
+
+- Add PDF version of SOF Polysomnography Manual of Procedures
+- Add montage and sampling rate information
+
 ### January 26, 2015
 
 - Add initial EEG spectral documentation
