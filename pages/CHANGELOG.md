@@ -1,3 +1,7 @@
+### July 30, 2015
+
+- Update NSRR XML annotation files to fix issues with duration calculation in first staging period and to not exclude last staging period in output
+
 ### June 16, 2015
 
 - Add PDF version of SOF Polysomnography Manual of Procedures
