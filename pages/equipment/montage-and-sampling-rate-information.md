@@ -19,7 +19,7 @@ The settings below represent the standards set at the beginning of the project. 
 | R Chin       | L Chin/R Chin        |  128                 | High Pass 0.15          | Gold cup electrode           |
 | Airflow      |                      |   16                 | High Pass 0.046         | PrTech thermistor            |
 | Thoracic     |                      |   16                 | High Pass 0.046         | Compumedics respiratory band |
-| Abdominal    |                      |   16                 | High Pass 0/046         | Compumedics respiratory band |
+| Abdominal    |                      |   16                 | High Pass 0.046         | Compumedics respiratory band |
 | STAT         |                      |    1                 |                         | Nonin 8000                   |
 | HR           |                      |    1                 |                         | Nonin 8000                   |
 | SAO2         |                      |    1                 |                         | Nonin 8000                   |
