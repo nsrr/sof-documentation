@@ -1,3 +1,7 @@
+### March 21, 2016
+
+- New EDF files posted that fixes an issue with incorrect filenaming in roughly half of the files
+
 ### November 20, 2015
 
 - Post 0.3.0 version of datasets
