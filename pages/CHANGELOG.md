@@ -1,3 +1,7 @@
+### April 18, 2016
+
+- Update citation for users of the dataset
+
 ### March 21, 2016
 
 - New EDF files posted that fixes an issue with incorrect filenaming in roughly half of the files

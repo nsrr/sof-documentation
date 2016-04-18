@@ -4,6 +4,12 @@ The multi-center Study of Osteoporotic Fractures (SOF) has 16 years of prospecti
 
 The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to open the SOF data to the broader research community. In collaboration with SOF Online, the National Sleep Research Resource is making available the SOF raw sleep study (EDF) data, along with a fuller set of polysomnography variables.  Sleep studies were completed on 461 SOF participants at Visit 8.
 
+## Citation
+
+When citing this dataset please use:
+
+1. Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep*. Advance online publication. pii: sp-00021-15
+
 ## Dataset Download
 
 Note: NSRR datasets and SOF Online datasets may be linked on `PDRID`.
