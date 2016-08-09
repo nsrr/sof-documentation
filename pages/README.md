@@ -8,7 +8,9 @@ The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to o
 
 When citing this dataset please use:
 
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+2. [Cummings, S. R., Black, D. M., Nevitt, M. C., Browner, W. S., Cauley, J. A., Genant, H. K., Mascioli, S. R., Scott, J. C., Seeley, D. G., & Steiger, P. (1990). Appendicular bone density and age predict hip fracture in women. The Study of Osteoporotic Fractures Research Group. *JAMA, 5,* 665–668.](http://www.ncbi.nlm.nih.gov/pubmed/2404146)
+3. [Spira, A. P., Blackwell, T., Stone, K. L., Redline, S., Cauley, J. A., Ancoli-Israel, S., & Yaffe, K. (2007). Sleep-disordered breathing and cognition in older women. *Journal of the American Geriatrics Society, 1,* 45–50.](http://www.ncbi.nlm.nih.gov/pubmed/18047498/)
 
 ## Dataset Download
 
