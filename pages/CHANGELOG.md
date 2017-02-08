@@ -1,3 +1,7 @@
+### February 8, 2017
+
+- Add introduction pages for dataset and polysomnography data
+
 ### August 9, 2016
 
 - Update citation list with primary SOF citations
