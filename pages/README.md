@@ -15,7 +15,7 @@ The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to o
 - [SOF Polysomnography Manual of Procedures](:files_path:/documentation?f=SOF_Polysomnography_Manual_of_Procedures.pdf)
 
 ## Equipment
-- [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
+- [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 
 ## EEG Spectral Analysis
 
