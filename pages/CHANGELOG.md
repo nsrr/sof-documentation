@@ -1,3 +1,7 @@
+### June 9, 2017
+
+- Add notes about XML files to PSG introduction
+
 ### February 8, 2017
 
 - Add introduction pages for dataset and polysomnography data
