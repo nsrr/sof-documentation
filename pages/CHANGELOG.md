@@ -1,3 +1,7 @@
+### May 24, 2018
+
+- Replace NSRR-translated XML annotation files (fix issues with epoch length and time of recording formatting)
+
 ### June 9, 2017
 
 - Add notes about XML files to PSG introduction
