@@ -1,3 +1,7 @@
+### June 7, 2018
+
+- Dataset 0.5.0 released, updated documentation to note that 'sofid' is primary subject identifier
+
 ### May 24, 2018
 
 - Replace NSRR-translated XML annotation files (fix issues with epoch length and time of recording formatting)

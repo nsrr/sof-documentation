@@ -4,4 +4,4 @@ The [Study of Osteoporotic Fractures dataset](:files_path:/datasets) posted on t
 
 ## Structure of the dataset
 
-The dataset contains 461 records. Records can be linked to raw polysomnography data by using the **[PDRID](https://www.sleepdata.org/datasets/sof/variables/pdrid)** subject identifier.
+The dataset contains 461 records. Records can be linked to raw polysomnography data by using the **[sofid](https://www.sleepdata.org/datasets/sof/variables/sofid)** subject identifier.
