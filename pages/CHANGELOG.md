@@ -1,3 +1,7 @@
+### May 17, 2019
+
+- Add note about eight subjects with missing raw PSG data
+
 ### June 7, 2018
 
 - Dataset 0.5.0 released, updated documentation to note that 'sofid' is primary subject identifier

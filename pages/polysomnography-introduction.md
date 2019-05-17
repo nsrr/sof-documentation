@@ -18,11 +18,11 @@ NSRR XML files can be overlaid onto EDF signal files using the [EDF Viewer tool]
 
 ## Known issues
 
-- *None*
+- Raw data and annotations for eight subjects (508, 1050, 1681, 2461, 2729, 3698, 5332, 7411) are not available due to prior data loss.
 
 ## History / changelog
 
-*December 2016
+*December 2016*
 - Change EDF recording dates from "00.00.00" (invalid) to "01.01.85" (valid de-identified date)
 
 *March 2016*
