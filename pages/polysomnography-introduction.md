@@ -19,6 +19,7 @@ NSRR XML files can be overlaid onto EDF signal files using the [EDF Viewer tool]
 ## Known issues
 
 - Raw data and annotations for eight subjects (508, 1050, 1681, 2461, 2729, 3698, 5332, 7411) are not available due to prior data loss.
+- Limb movements were reprocessed after original scoring, with updated results being included in summary datasets. The XML files on NSRR include the original limb movement scoring data. The reprocessed limb movement data are not avaiable in a raw format.
 
 ## History / changelog
 

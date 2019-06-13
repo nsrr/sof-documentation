@@ -1,3 +1,7 @@
+## June 13, 2019
+
+- Add note to PSG introduction about reprocessed leg data
+
 ### May 17, 2019
 
 - Add note about eight subjects with missing raw PSG data
