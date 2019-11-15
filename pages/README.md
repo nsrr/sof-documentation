@@ -17,10 +17,6 @@ The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to o
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 
-## EEG Spectral Analysis
-
-As part of the NSRR's effort to explore the SOF data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/sof/variables?folder=Spectral+Analysis).
-
 ## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
