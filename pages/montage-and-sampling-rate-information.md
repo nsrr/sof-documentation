@@ -4,7 +4,7 @@ The settings below represent the standards set at the beginning of the project. 
 
 | Channel           | EDF Label    | Input 1      | Input 2 | Sampling Rate (Hz) | Hardware Filters (Hz) | Sensor Type                  |
 |:-----------------:|:------------:|:------------:|:-------:|:------------------:|:---------------------:|:----------------------------:|
-| Reference         | -            | Fpz          | -       |                    |                       |                              |
+| REF               | -            | Fpz          | -       |                    |                       |                              |
 | Position          | Position     | Position     | -       | 4                  | High Pass 0.15        | Compumedics external sensor  |
 | Left Leg EMG      | Leg/L        | Leg/L        | Fpz     | 64                 | High Pass 0.15        | Compumedics piezo sensor     |
 | Right Leg EMG     | Leg/R        | Leg/R        | Fpz     | 64                 | High Pass 0.15        | Compumedics piezo sensor     |
@@ -21,7 +21,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Thermistor        | Airflow      | Airflow      | -       | 16                 | High Pass 0.046       | PrTech thermistor            |
 | Thorax            | Thoracic     | Thoracic     | -       | 16                 | High Pass 0.046       | Compumedics respiratory band |
 | Abdomen           | Abdominal    | Abdominal    | -       | 16                 | High Pass 0.046       | Compumedics respiratory band |
-| Ox Status         | STAT         | STAT         | -       | 1                  |                       | Nonin 8000                   |
-| Heart Rate        | HR           | HR           | -       | 1                  |                       | Nonin 8000                   |
-| SpO2              | SAO2         | SAO3         | -       | 1                  |                       | Nonin 8000                   |
+| Oximetry Status   | STAT         | STAT         | -       | 1                  | -                     | Nonin 8000                   |
+| Heart Rate        | HR           | HR           | -       | 1                  | -                     | Nonin 8000                   |
+| SpO2              | SAO2         | SAO3         | -       | 1                  | -                     | Nonin 8000                   |
 | Nasal Pressure    | Cannula Flow | Cannula Flow | -       | 64                 | High Pass 0.046       | Nasal cannula                |
