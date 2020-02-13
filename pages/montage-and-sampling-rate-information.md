@@ -18,7 +18,7 @@ The settings below represent the standards set at the beginning of the project. 
 | ECG2              | ECG2         | ECG2         | Fpz     | 256                | High Pass 0.15        | Ag/AgCl patch                |
 | Left Chin EMG     | L Chin       | L Chin       | Fpz     | 128                | High Pass 0.15        | Gold cup electrode           |
 | Right Chin EMG    | R Chin       | R Chin       | Fpz     | 128                | High Pass 0.15        | Gold cup electrode           |
-| Thermistor        | Airflow      | Airflow      | -       | 16                 | High Pass 0.046       | PrTech thermistor            |
+| Airflow           | Airflow      | Airflow      | -       | 16                 | High Pass 0.046       | PrTech thermistor            |
 | Thorax            | Thoracic     | Thoracic     | -       | 16                 | High Pass 0.046       | Compumedics respiratory band |
 | Abdomen           | Abdominal    | Abdominal    | -       | 16                 | High Pass 0.046       | Compumedics respiratory band |
 | Oximetry Status   | STAT         | STAT         | -       | 1                  | -                     | Nonin 8000                   |
