@@ -4,6 +4,18 @@ The multi-center Study of Osteoporotic Fractures (SOF) has 16 years of prospecti
 
 The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to open the SOF data to the broader research community. In collaboration with SOF Online, the National Sleep Research Resource is making available the SOF raw sleep study (EDF) data, along with a fuller set of polysomnography variables.  Sleep studies were completed on 461 SOF participants at Visit 8.
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Spira AP, Blackwell T, Stone KL, Redline S, Cauley JA, Ancoli-Israel S, Yaffe K. Sleep-disordered breathing and cognition in older women. J Am Geriatr Soc. 2008 Jan;56(1):45-50. doi: 10.1111/j.1532-5415.2007.01506.x. Epub 2007 Nov 28. PMID: 18047498.](https://pubmed.ncbi.nlm.nih.gov/18047498/)
+
+Please include the following text in the Acknowledgements:
+
+> The Study of Osteoporotic Fractures (SOF) was supported by National Institutes of Health grants (AG021918, AG026720, AG05394, AG05407, AG08415, AR35582, AR35583, AR35584, RO1 AG005407, R01 AG027576-22, 2 R01 AG005394-22A1, 2 RO1 AG027574-22A1, HL40489, T32 AG000212-14). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Data overview
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from SOF Visit 8 sleep examination and key measures from other visits.
@@ -24,12 +36,3 @@ The [SOF Online website](http://sof.ucsf.edu/) was created in 2011 in order to o
 ## Publications
 
 - Search on the [SOF Online website](http://sof.ucsf.edu/interface/PubMain.asp)
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Cummings SR, Black DM, Nevitt MC, Browner WS, Cauley JA, Genant HK, Mascioli SR, Scott JC, Seeley DG, Steiger P, et al. [**Appendicular bone density and age predict hip fracture in women. The Study of Osteoporotic Fractures Research Group.**](http://www.ncbi.nlm.nih.gov/pubmed/2404146) JAMA. 1990 Feb 2;263(5):665-8. PubMed PMID: 2404146.
-4. Spira AP, Blackwell T, Stone KL, Redline S, Cauley JA, Ancoli-Israel S, Yaffe K. [**Sleep-disordered breathing and cognition in older women.**](http://www.ncbi.nlm.nih.gov/pubmed/18047498) J Am Geriatr Soc. 2008 Jan;56(1):45-50. Epub 2007 Nov 28. PubMed PMID: 18047498.
