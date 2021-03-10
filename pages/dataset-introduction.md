@@ -1,6 +1,6 @@
 # Dataset introduction
 
-The [Study of Osteoporotic Fractures dataset](:files_path:/datasets) posted on the NSRR was prepared by the dataset owners at [SOF Online](http://sof.ucsf.edu/). Changes and updates to the source data and variable definitions have been coordinated in the [sof-data-dictionary repository](https://github.com/nsrr/sof-data-dictionary).
+The [Study of Osteoporotic Fractures dataset](:files_path:/datasets) posted on the NSRR was prepared by the dataset owners at SOF Online (unavailable as of March 2021). Changes and updates to the source data and variable definitions have been coordinated in the [sof-data-dictionary repository](https://github.com/nsrr/sof-data-dictionary).
 
 ## Structure of the dataset
 
