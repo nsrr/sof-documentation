@@ -32,7 +32,3 @@ Please include the following text in the Acknowledgements:
 ## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
-
-## Publications
-
-- Search on the [SOF Online website](http://sof.ucsf.edu/interface/PubMain.asp)
