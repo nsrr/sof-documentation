@@ -2,7 +2,7 @@
 
 The multi-center Study of Osteoporotic Fractures (SOF) has 16 years of prospective data about osteoporosis that has served as the basis for many findings about osteoporosis and aging in women age 65 or older. In addition to adjudication of fractures, SOF has tracked cases of incident breast cancer, stroke, and total and cause-specific mortality. The data include serial measures of bone mineral density, measurements of sex and calcitropic hormones, tests of strength and function, cognitive exams, use of medication, health habits and much more.
 
-The SOF Online website (unavailable as of March 2021) was created in 2011 in order to open the SOF data to the broader research community. In collaboration with SOF Online, the National Sleep Research Resource is making available the SOF raw sleep study (EDF) data, along with a fuller set of polysomnography variables.  Sleep studies were completed on 461 SOF participants at Visit 8.
+The [SOF Online website](https://sofonline.ucsf.edu/) was created in 2011 in order to open the SOF data to the broader research community. In collaboration with SOF Online, the National Sleep Research Resource is making available the SOF raw sleep study (EDF) data, along with a fuller set of polysomnography variables.  Sleep studies were completed on 461 SOF participants at Visit 8.
 
 ## Citation and acknowledgement
 
